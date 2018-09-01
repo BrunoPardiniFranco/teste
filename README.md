@@ -1,2 +1,2 @@
 # teste
-Repositório de teste inicial
+Repositório de teste inicial.
